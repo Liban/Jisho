@@ -1,2 +1,2 @@
 # Jisho
--Powered using SaneStack
+List of all Joyou charecters, with svg
