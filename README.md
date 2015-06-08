@@ -1,1 +1,2 @@
 # Jisho
+-Powered using SaneStack
