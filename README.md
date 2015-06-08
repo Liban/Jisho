@@ -1,5 +1,6 @@
 # Jisho
-List of all Joyou charecters, with svg
+
+This branch will contain all the charecter in SVG formate to animate stroke order.
 
 
 The jōyō kanji (常用漢字?, literally "regular-use Chinese characters") is the guide to kanji characters and their readings, announced officially by the Japanese Ministry of Education. Current jōyō kanji are those on a list of 2,136 characters issued in 2010. 
