@@ -1,5 +1,7 @@
 #List of Radicales
 
+Kanji radicals are graphemes, or graphical parts, that are used in organizing Japanese kanji in dictionaries. They are derived from the 214 Chinese Kangxi radicals.
+-
 一 - 丨 - 丶 - 丿 - 乙 - 亅 - 二 - 亠 - 人 - 儿 - 入 - 八 - 冂 - 冖 - 冫 - 几 - 凵 - 刀 - 力 - 勹 - 匕  
 匚 - 匸 - 十 - 卜 - 卩 - 厂 - 厶 - 又 - 口 - 囗 - 土 - 士 - 夂 - 夊 - 夕 - 大 - 女 - 子 - 宀 - 寸 - 小  
 尢 - 尸 - 屮 - 山 - 巛 - 工 - 己 - 巾 - 干 - 幺 - 广 - 廴 - 廾 - 弋 - 弓 - 彐 - 彡 - 彳 - 心 - 戈 - 戶   
