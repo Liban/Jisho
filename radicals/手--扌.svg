@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="196.697px" height="558.814px" viewBox="0 0 196.697 558.814" enable-background="new 0 0 196.697 558.814"
+	 xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M134.741,328.408v180.456c0,48.122-27.67,49.927-105.868,49.927c-1.804-10.227-7.218-27.069-13.234-37.897
+			c15.64,0.602,30.076,0.602,42.107,0.602c33.084,0,36.693,0,36.693-12.632V342.243v-41.505v-138.35v-37.895V-0.023l51.731,3.008
+			c-0.601,4.812-3.609,7.218-11.429,8.421v113.087v37.895v126.32V328.408z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#E6233C" stroke-width="64" stroke-miterlimit="10" d="M114.477-0.023
+		l0.333,512.52c0,0-19.5,67-136,0"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M94.439,342.243c-26.467,9.023-51.129,17.444-70.378,23.459c-0.602,4.812-3.61,8.422-7.82,9.625L0,328.408
+			c25.865-7.218,58.348-16.843,94.439-27.67l40.302-12.031l57.145-17.444c1.203,3.609,1.804,7.219,4.812,35.49l-61.956,21.655
+			L94.439,342.243z"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	
+		<line clip-path="url(#SVGID_4_)" fill="none" stroke="#E6233C" stroke-width="60" stroke-miterlimit="10" x1="7.093" y1="348.898" x2="196.697" y2="284.695"/>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_5_" points="94.439,162.387 5.414,162.387 5.414,124.492 191.284,124.492 191.284,162.387 134.741,162.387 		
+			"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	
+		<line clip-path="url(#SVGID_6_)" fill="none" stroke="#E6233C" stroke-width="40" stroke-miterlimit="10" x1="5.414" y1="143.44" x2="191.284" y2="143.44"/>
+</g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="382.568px" height="384.975px" viewBox="0 0 382.568 384.975" enable-background="new 0 0 382.568 384.975"
+	 xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M223.164,223.165h-26.467l-4.211,18.045c32.482,69.175,86.619,119.703,164.817,143.764
+			c4.812-10.827,16.843-27.069,25.264-34.889C307.378,330.837,252.639,285.723,223.164,223.165z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#E6233B" stroke-width="60" stroke-miterlimit="10" d="M196.697,223.165
+		c0,0,24.553,66.723,175.645,150.71"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M192.486,241.21c-20.451,52.332-66.167,104.063-167.824,142.56C19.85,374.748,8.421,360.312,0,353.093
+			c97.446-36.091,139.553-83.01,156.997-129.928l9.023-36.092c2.407-15.038,3.009-29.474,3.009-43.309v-42.107h38.497v42.708
+			c0,13.835-0.602,28.271-2.407,42.708L192.486,241.21z"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_4_)" fill="none" stroke="#E6233C" stroke-width="52" stroke-miterlimit="10" d="M190.382,95.642
+		c0,0,43.371,188.233-184.629,278.233"/>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_5_" points="156.997,223.165 8.421,223.165 8.421,187.073 166.019,187.073 205.119,187.073 372.342,187.073 
+			372.342,223.165 223.164,223.165 		"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	
+		<line clip-path="url(#SVGID_6_)" fill="none" stroke="#E6233C" stroke-width="40" stroke-miterlimit="10" x1="8.421" y1="205.119" x2="372.342" y2="205.119"/>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_7_" points="169.028,101.657 100.454,101.657 116.094,65.566 338.656,65.566 338.656,101.657 207.525,101.657 
+					"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	
+		<line clip-path="url(#SVGID_8_)" fill="none" stroke="#E6233C" stroke-width="40" stroke-miterlimit="10" x1="97.419" y1="83.612" x2="339.086" y2="83.612"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_9_" d="M100.454,101.657c-13.835,28.873-29.475,54.739-46.317,74.589c-7.82-6.015-22.256-15.639-31.279-20.451
+			C53.536,120.305,81.206,59.551,97.446,0l48.122,13.234c-1.805,4.211-6.015,6.015-13.234,6.015
+			c-4.811,15.64-10.225,30.678-16.241,46.317L100.454,101.657z"/>
+	</defs>
+	<clipPath id="SVGID_10_">
+		<use xlink:href="#SVGID_9_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_10_)" fill="none" stroke="#E6233C" stroke-width="56" stroke-miterlimit="10" d="M121.752,0
+		c0,0-34.805,127.798-98.895,176.246"/>
+</g>
+</svg>
