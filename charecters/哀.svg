@@ -1,112 +1,91 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="620.499px" height="560.572px" viewBox="0 0 620.499 560.572" enable-background="new 0 0 620.499 560.572" xml:space="preserve">
-
-	<style>
-		path{
-		stroke-dasharray: attr(data-length);
-		stroke-dashoffset: attr(data-length);
-		transition: stroke-dashoffset 1s ease;
-		}
-	</style>
-    <g id="_x31__1_">
-        <defs>
-            <path id="_x31_" d="M289.895,70.377V0l51.718,3.625c-0.613,4.211-3.6,7.198-12.023,8.423v58.33H289.895z" />
-        </defs>
-        <clipPath id="_x31__2_">
-            <use xlink:href="#_x31_" overflow="visible" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 620.499 560.572">
+    <defs>
+        <path id="stroke-1__mask__def" d="M289.895,70.377V0l51.718,3.625c-0.613,4.211-3.6,7.198-12.023,8.423v58.33H289.895z" />
+        <path id="stroke-2__mask__def" d="M38.452 70.377h545.592v37.27H38.452z" />
+        <path id="stroke-3__mask__def" d="M128.69 158.19h39.754v166.03H128.69z" />
+        <path id="stroke-4__mask__def" d="M168.36 158.19v36.098h286.345V324.22h39.714V158.192" />
+        <path id="stroke-5__mask__def" d="M168.414 288.713h286.29v35.508h-286.29z" />
+        <path id="stroke-6__mask__def" d="M178.009,418.059C137.114,438.482,94.407,455.33,55.3,466.741c-5.413-9.6-16.237-24.047-24.66-32.473 c80.59-19.835,174.428-62.541,234.57-110.048l51.037,0.01c-20.501,22.681-60.637,50.484-93.132,69.731L178.009,418.059z" />
+        <path id="stroke-7__mask__def" d="M178.009,506.484v-88.426l45.107-24.097l6.024,1.226c-1.2,3.624-4.211,6.61-12.023,7.787v99.299 L178.009,506.484z" />
+        <path id="stroke-8__mask__def" d="M366.272,484.838l1.2,33.598c-86.002,12.635-177.44,24.097-235.183,31.345 c-0.587,4.212-3.599,7.15-7.224,8.424l-19.834-44.569L366.272,484.838z" />
+        <path id="stroke-9__mask__def" d="M396.957,407.187c43.882-24.636,98.05-61.318,129.884-88.99l39.719,29.484 c-2.398,3.575-9.012,3.575-13.224,2.986c-34.281,24.048-90.214,57.743-134.732,79.391L396.957,407.187z" />
+        <path id="stroke-10__mask__def" d="M418.604,430.058c45.744,45.083,104.024,78.19,173.815,96.214c-9.011,7.836-20.422,23.509-25.859,34.283 c-120.285-36.634-215.896-122.309-260.813-236.334h39.466c13.248,30.071,30.685,57.743,51.744,82.966L418.604,430.058z" />
+    </defs>
+    <g id="stroke-1">
+        <clipPath id="stroke-1__mask">
+            <use xlink:href="#stroke-1__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x31__2_)" fill="none" stroke="#6B7CBC" stroke-width="52" d="M315.622 0v70.37" />
+        <path clip-path="url(#stroke-1__mask)" fill="none" stroke="#6B7CBC" stroke-width="52" d="M315.622 0v70.37" />
     </g>
-    <g id="_x32__1_">
-        <defs>
-            <path id="_x32_" d="M38.452 70.377h545.592v37.27H38.452z" />
-        </defs>
-        <clipPath id="_x32__2_">
-            <use xlink:href="#_x32_" overflow="visible" />
+    <g id="stroke-2">
+        <clipPath id="stroke-2__mask">
+            <use xlink:href="#stroke-2__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x32__2_)" fill="none" stroke="#6B7CBC" stroke-width="38" d="M38.45 89.33h545.63" />
+        <path clip-path="url(#stroke-2__mask)" fill="none" stroke="#6B7CBC" stroke-width="38" d="M38.45 89.33h545.63" />
     </g>
-    <g id="_x33__1_">
-        <defs>
-            <path id="_x33_" d="M128.69 158.19h39.754v166.03H128.69z" />
-        </defs>
-        <clipPath id="_x33__2_">
-            <use xlink:href="#_x33_" overflow="visible" />
+    <g id="stroke-3">
+        <clipPath id="stroke-3__mask">
+            <use xlink:href="#stroke-3__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x33__2_)" fill="none" stroke="#6B7CBC" stroke-width="41" d="M148.747 324.2V158.183" />
+        <path clip-path="url(#stroke-3__mask)" fill="none" stroke="#6B7CBC" stroke-width="41" d="M148.747 324.2V158.183" />
     </g>
-    <g id="_x34__1_">
+    <g id="stroke-4">
         <defs>
-            <path id="_x34_" d="M168.36 158.19v36.098h286.345V324.22h39.714V158.192" />
         </defs>
-        <clipPath id="_x34__2_">
-            <use xlink:href="#_x34_" overflow="visible" />
+        <clipPath id="stroke-4__mask">
+            <use xlink:href="#stroke-4__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x34__2_)" fill="none" stroke="#6B7CBC" stroke-width="41" d="M168.444 176.24h306.118v147.98" />
+        <path clip-path="url(#stroke-4__mask)" fill="none" stroke="#6B7CBC" stroke-width="41" d="M168.444 176.24h306.118v147.98" />
     </g>
-    <g id="_x35__1_">
+    <g id="stroke-5">
         <defs>
-            <path id="_x35_" d="M168.414 288.713h286.29v35.508h-286.29z" />
         </defs>
-        <clipPath id="_x35__2_">
-            <use xlink:href="#_x35_" overflow="visible" />
+        <clipPath id="stroke-5__mask">
+            <use xlink:href="#stroke-5__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x35__2_)" fill="none" stroke="#6B7CBC" stroke-width="41" d="M168.444 306.467h286.26" />
+        <path clip-path="url(#stroke-5__mask)" fill="none" stroke="#6B7CBC" stroke-width="41" d="M168.444 306.467h286.26" />
     </g>
-    <g id="_x37_">
+    <g id="stroke-6">
         <defs>
-            <path id="_x36__1_" d="M178.009,418.059C137.114,438.482,94.407,455.33,55.3,466.741c-5.413-9.6-16.237-24.047-24.66-32.473
-			c80.59-19.835,174.428-62.541,234.57-110.048l51.037,0.01c-20.501,22.681-60.637,50.484-93.132,69.731L178.009,418.059z" />
         </defs>
-        <clipPath id="_x36__2_">
-            <use xlink:href="#_x36__1_" overflow="visible" />
+        <clipPath id="stroke-6__mask">
+            <use xlink:href="#stroke-6__mask__def" overflow="visible" />
         </clipPath>
-
-        <path clip-path="url(#_x36__2_)" fill="none" stroke="#6B7CBC" stroke-width="44" stroke-miterlimit="10" d="M312.054,317.126
-			c0,0-166.218,117.72-280.475,131.87"/>
+        <path clip-path="url(#stroke-6__mask)" fill="none" stroke="#6B7CBC" stroke-width="44" stroke-miterlimit="10" d="M312.054,317.126
+			c0,0-166.218,117.72-280.475,131.87" />
     </g>
-    <g id="_x38__1_">
+    <g id="stroke-7">
         <defs>
-            <path id="_x37_-a" d="M178.009,506.484v-88.426l45.107-24.097l6.024,1.226c-1.2,3.624-4.211,6.61-12.023,7.787v99.299
-			L178.009,506.484z" />
         </defs>
-        <clipPath id="_x37_-a_1_">
-            <use xlink:href="#_x37_-a" overflow="visible" />
+        <clipPath id="stroke-7__mask">
+            <use xlink:href="#stroke-7__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x37_-a_1_)" fill="none" stroke="#6B7CBC" stroke-width="51" d="M203.574 393.962v112.522" />
+        <path clip-path="url(#stroke-7__mask)" fill="none" stroke="#6B7CBC" stroke-width="51" d="M203.574 393.962v112.522" />
     </g>
-    <g id="_x39__1_">
+    <g id="stroke-8">
         <defs>
-            <path id="_x37_-b" d="M366.272,484.838l1.2,33.598c-86.002,12.635-177.44,24.097-235.183,31.345
-			c-0.587,4.212-3.599,7.15-7.224,8.424l-19.834-44.569L366.272,484.838z" />
         </defs>
-        <clipPath id="_x37_-b_1_">
-            <use xlink:href="#_x37_-b" overflow="visible" />
+        <clipPath id="stroke-8__mask">
+            <use xlink:href="#stroke-8__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x37_-b_1_)" fill="none" stroke="#6B7CBC" stroke-width="57" stroke-miterlimit="10" d="M105.23 513.635l37.017 24.695 211-33.333 13.75-20.834" />
+        <path clip-path="url(#stroke-8__mask)" fill="none" stroke="#6B7CBC" stroke-width="57" stroke-miterlimit="10" d="M105.23 513.635l37.017 24.695 211-33.333 13.75-20.834" />
     </g>
-    <g id="_x31_0">
+    <g id="stroke-9">
         <defs>
-            <path id="_x38_" d="M396.957,407.187c43.882-24.636,98.05-61.318,129.884-88.99l39.719,29.484
-			c-2.398,3.575-9.012,3.575-13.224,2.986c-34.281,24.048-90.214,57.743-134.732,79.391L396.957,407.187z" />
         </defs>
-        <clipPath id="_x38__2_">
-            <use xlink:href="#_x38_" overflow="visible" />
+        <clipPath id="stroke-9__mask">
+            <use xlink:href="#stroke-9__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x38__2_)" fill="none" stroke="#6B7CBC" stroke-width="54" stroke-miterlimit="10" d="M553.247,320.196
+        <path clip-path="url(#stroke-9__mask)" fill="none" stroke="#6B7CBC" stroke-width="54" stroke-miterlimit="10" d="M553.247,320.196
 		c0,0-29.17,61.707-157.667,94.133" />
     </g>
-    <g id="_x31_1">
+    <g id="stroke-10">
         <defs>
-            <path id="_x39_" d="M418.604,430.058c45.744,45.083,104.024,78.19,173.815,96.214c-9.011,7.836-20.422,23.509-25.859,34.283
-			c-120.285-36.634-215.896-122.309-260.813-236.334h39.466c13.248,30.071,30.685,57.743,51.744,82.966L418.604,430.058z" />
         </defs>
-        <clipPath id="_x39__2_">
-            <use xlink:href="#_x39_" overflow="visible" />
+        <clipPath id="stroke-10__mask">
+            <use xlink:href="#stroke-10__mask__def" overflow="visible" />
         </clipPath>
-        <path clip-path="url(#_x39__2_)" fill="none" stroke="#6B7CBC" stroke-width="49" d="M316.248,315.496
+        <path clip-path="url(#stroke-10__mask)" fill="none" stroke="#6B7CBC" stroke-width="49" d="M316.248,315.496
 		c0,0,108.499,206.025,278.999,228.645" />
     </g>
 </svg>
